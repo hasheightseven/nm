@@ -50,6 +50,6 @@ jobs:
       # Ensure these Git configurations are correct for automated commits
       - name: Deploy to GitHub Pages
         run: |
-          npx gh-pages -d build -r https://x-access-token:${{ secrets.react_token }}@github.com/hasheightseven/hasheightseven.github.io.git
+          npx gh-pages -d build -r https://x-access-token:${{ secrets.react_token }}@github.com/hasheightseven/neonmonkey.git
         env:
           GH_TOKEN: ${{ secrets.react_token}}  # Ensure this is passed from your secrets
