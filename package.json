@@ -1,5 +1,5 @@
 {
-  name: NEON MONKEY,
-  version: 0.0.1,
-  scripts: node index.js
+  "name": "NEON MONKEY",
+  "version": "0.0.1",
+  "scripts": "node index.js"
 }
