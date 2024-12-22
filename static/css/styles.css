@@ -10,6 +10,8 @@ html, body {
 
 .nm-main {
     position: fixed;
-    top: 26vmin;
-    background-color: #92112687'
+    top: 15vmin;
+    height: 70vmin;
+    background-color: chocolate;
+    width: -webkit-fill-available;
 }
