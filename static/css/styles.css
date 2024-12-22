@@ -19,6 +19,9 @@ html, body {
     height: 10vmin;
 }
 
+.nm-header svg {
+    z-index: 999;
+}
 
 .nm-main {
     flex-direction: column;
