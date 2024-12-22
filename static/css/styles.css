@@ -33,7 +33,7 @@ html, body {
 }
 
 .nm-section {
-    width: -webkit-fill-available;
+    padding: 0 2.6vmin;
     height: 8vmin;
     background-color: #11269287;
 }
