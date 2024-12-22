@@ -9,14 +9,12 @@ html, body {
 }
 
 .nm-main, .nm-header, .nm-footer {
-    position: fixed;
-    background-color: #11269287;
+    /* background-color: #11269287; */
     width: -webkit-fill-available;
 }
 
 .nm-header {
-    top: 0;
-    height: 10vmin;
+    height: 100vmin;
 }
 
 .nm-div-header-logo {
