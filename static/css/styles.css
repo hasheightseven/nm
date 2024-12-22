@@ -19,13 +19,17 @@ html, body {
     height: 10vmin;
 }
 
+
 .nm-main {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
     flex-direction: column;
     top: 15vmin;
     bottom: 15vmin;
+}
+
+.nm-main, .nm-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .nm-section {
