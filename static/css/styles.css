@@ -2,24 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-/*     display: flex; */
-/*     align-items: center; */
-/*     justify-content: space-around; */
 }
 
 html, body {
-    background-color: #92112687;
+    background-color: #11269287;
 }
 
 .nm-main, .nm-header, .nm-footer {
     position: fixed;
-    background-color: #92112687;
+    background-color: #11269287;
     width: -webkit-fill-available;
 }
 
 .nm-header {
     top: 0;
-    height: 10vmin;
 }
 
 .nm-main {
@@ -29,4 +25,11 @@ html, body {
 
 .nm-footer {
     bottom: 0;
+}
+
+#nm-copyright {
+    padding-left: 8vmin;
+    padding-bottom: 2.6vmin;
+    font-size: 2.6vmin;
+    letter-spacing: 0.8vmin;
 }
