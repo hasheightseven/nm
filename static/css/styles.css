@@ -19,8 +19,13 @@ html, body {
     height: 10vmin;
 }
 
-.nm-header svg {
+.nm-div-header-logo {
     z-index: 999;
+
+}
+
+#nm-logo-text {
+    color: #92112687;
 }
 
 .nm-main {
