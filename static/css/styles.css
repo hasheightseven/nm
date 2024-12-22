@@ -23,6 +23,12 @@ html, body {
     bottom: 30vmin;
 }
 
+.nm-section {
+    width: -webkit-fill-available;
+    height: 8vmin;
+    background-color: #11269287;
+}
+
 .nm-footer {
     bottom: 0;
 }
