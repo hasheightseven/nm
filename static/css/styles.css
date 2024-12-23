@@ -15,7 +15,7 @@ html, body {
 
 .nm-header {
     height: 100vmin;
-    background-image: url(../img/car-meter.jpg);
+/*     background-image: url(../img/car-meter.jpg); */
     background-position: right center;
     background-size: cover;
 }
