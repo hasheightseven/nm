@@ -8,6 +8,11 @@ body {
     background-color: #11269287;
 }
 
+#main-root-nm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .nm-main, .nm-header, .nm-footer {
     /* background-color: #11269287; */
     width: -webkit-fill-available;
