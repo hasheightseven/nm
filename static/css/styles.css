@@ -4,14 +4,11 @@
     box-sizing: border-box;
 }
 
-html {
-    background-color: #11269287;
-}
-
 #main-root-nm {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #11269287;
 }
 .nm-main, .nm-header, .nm-footer {
     /* background-color: #11269287; */
